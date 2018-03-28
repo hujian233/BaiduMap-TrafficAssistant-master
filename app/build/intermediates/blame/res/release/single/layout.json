@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_map.xml",
+        "source": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_from_msg.xml",
+        "source": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\src\\main\\res\\layout\\item_from_msg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_dial.xml",
+        "source": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\src\\main\\res\\layout\\activity_dial.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_browser.xml",
+        "source": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\src\\main\\res\\layout\\activity_browser.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_bus.xml",
+        "source": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\src\\main\\res\\layout\\activity_bus.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\gridview_item.xml",
+        "source": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_navigation.xml",
+        "source": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\src\\main\\res\\layout\\activity_navigation.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_download.xml",
+        "source": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\src\\main\\res\\layout\\activity_download.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\offline_localmap_list.xml",
+        "source": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\src\\main\\res\\layout\\offline_localmap_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_to_msg.xml",
+        "source": "D:\\AndroidStudioProjects\\fifth-capter\\BaiduMap-TrafficAssistant-master\\app\\src\\main\\res\\layout\\item_to_msg.xml"
+    }
+]
